@@ -1,6 +1,6 @@
 # Temperature-Sensing-Windows-
 This arduino based Temperature sensing automatic window controller project controls window open angle according to the room temperature and humidity. Show these parameter changes on the serial monitor.
-[]![Circuit Diagram]()
+[]![Circuit Diagram](https://github.com/Monika3002/Temperature-Sensing-Windows-/blob/main/image.jpeg)
 
 -> Libraries used in this project are servo.h and dht.h .
 -> DHT sensor is used to sense the temperature and humitdity in the environment.
